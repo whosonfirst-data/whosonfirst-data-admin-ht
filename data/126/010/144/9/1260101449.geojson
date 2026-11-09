@@ -55,7 +55,7 @@
         "wk:page":"Cange%2C_Haiti"
     },
     "wof:country":"HT",
-    "wof:geomhash":"66ab008705da36dfedb8960c8d459588",
+    "wof:geomhash":"f727aaff16e4779dabe85b690f45e726",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,5 +81,5 @@
     -71.98333000000002,
     18.91667
 ],
-  "geometry": {"coordinates":[-71.98333000000002,18.91667],"type":"Point"}
+  "geometry": {"coordinates":[-71.98333,18.91667],"type":"Point"}
 }

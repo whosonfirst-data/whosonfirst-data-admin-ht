@@ -40,7 +40,7 @@
         "wk:page":"Lalane"
     },
     "wof:country":"HT",
-    "wof:geomhash":"0594c5e7de287c8db968ee8c95d0a644",
+    "wof:geomhash":"fc44a9451b5f1b44c8f3028a8a1e4de5",
     "wof:hierarchy":[
         {
             "country_id":85632433,
@@ -63,5 +63,5 @@
     -73.26666999999998,
     18.3
 ],
-  "geometry": {"coordinates":[-73.26666999999998,18.3],"type":"Point"}
+  "geometry": {"coordinates":[-73.26667,18.3],"type":"Point"}
 }

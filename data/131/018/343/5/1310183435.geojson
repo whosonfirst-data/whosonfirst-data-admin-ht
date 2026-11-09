@@ -43,7 +43,7 @@
         "wk:page":"Ca_Pierre"
     },
     "wof:country":"HT",
-    "wof:geomhash":"4334a43b9294207f5912b98a6bf6a597",
+    "wof:geomhash":"30105cd0c1b79a10e1588219775fe17d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -72.55863000000002,
     18.89827
 ],
-  "geometry": {"coordinates":[-72.55863000000002,18.89827],"type":"Point"}
+  "geometry": {"coordinates":[-72.55863,18.89827],"type":"Point"}
 }

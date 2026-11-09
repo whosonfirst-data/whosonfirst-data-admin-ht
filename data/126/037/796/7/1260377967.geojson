@@ -73,7 +73,7 @@
         "wk:page":"Arniquet"
     },
     "wof:country":"HT",
-    "wof:geomhash":"c4a63cffbe22937203161debd6959ae0",
+    "wof:geomhash":"731b25335febacad654d8c6138c0f69d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,5 +99,5 @@
     -73.87503000000002,
     18.14635
 ],
-  "geometry": {"coordinates":[-73.87503000000002,18.14635],"type":"Point"}
+  "geometry": {"coordinates":[-73.87503,18.14635],"type":"Point"}
 }

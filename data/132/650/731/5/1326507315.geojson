@@ -43,7 +43,7 @@
         "wk:page":"Bonne_Fin"
     },
     "wof:country":"HT",
-    "wof:geomhash":"aaa03f6c491854499828df43003f566b",
+    "wof:geomhash":"a537b36d5a56f1ea6bbbdbef890f9af6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -73.61218000000002,
     18.39163
 ],
-  "geometry": {"coordinates":[-73.61218000000002,18.39163],"type":"Point"}
+  "geometry": {"coordinates":[-73.61218,18.39163],"type":"Point"}
 }

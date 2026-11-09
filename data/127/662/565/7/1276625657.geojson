@@ -43,7 +43,7 @@
         "wk:page":"Nan_Palmiste"
     },
     "wof:country":"HT",
-    "wof:geomhash":"c2564a4b567b5201b02a61f5454229dc",
+    "wof:geomhash":"fbbfebdedaa048c4dbe7d7ef953bb0b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -73.86610999999998,
     18.53329
 ],
-  "geometry": {"coordinates":[-73.86610999999998,18.53329],"type":"Point"}
+  "geometry": {"coordinates":[-73.86611,18.53329],"type":"Point"}
 }

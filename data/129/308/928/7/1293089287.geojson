@@ -43,7 +43,7 @@
         "wk:page":"Parc_Dubois"
     },
     "wof:country":"HT",
-    "wof:geomhash":"2f7c0bfaf2a4fea3bdea9998c737378b",
+    "wof:geomhash":"e106d6f233d307e01904d6b79a8ac16a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -71.87874000000002,
     18.63893
 ],
-  "geometry": {"coordinates":[-71.87874000000002,18.63893],"type":"Point"}
+  "geometry": {"coordinates":[-71.87874,18.63893],"type":"Point"}
 }

@@ -43,7 +43,7 @@
         "wk:page":"Saintard"
     },
     "wof:country":"HT",
-    "wof:geomhash":"bd008e3b1d5f637876408c7af44cddeb",
+    "wof:geomhash":"18348ab805844e454010b5c662f014fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -72.54963000000002,
     18.8253
 ],
-  "geometry": {"coordinates":[-72.54963000000002,18.8253],"type":"Point"}
+  "geometry": {"coordinates":[-72.54963,18.8253],"type":"Point"}
 }

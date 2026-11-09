@@ -37,7 +37,7 @@
         "wk:page":"Meyance"
     },
     "wof:country":"HT",
-    "wof:geomhash":"6484bb96a2426cfd32daff805ad5e213",
+    "wof:geomhash":"e318e1b9b0b77a5daa7d0d82f18e0035",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,5 +62,5 @@
     -73.48333000000002,
     18.25
 ],
-  "geometry": {"coordinates":[-73.48333000000002,18.25],"type":"Point"}
+  "geometry": {"coordinates":[-73.48333,18.25],"type":"Point"}
 }

@@ -119,7 +119,7 @@
         "wk:page":"Port-de-Paix"
     },
     "wof:country":"HT",
-    "wof:geomhash":"f4773b17864fc3197abf5a768b9573f5",
+    "wof:geomhash":"f5210c619e69b49b985276b50e6b2966",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,5 +147,5 @@
     -72.83256999999998,
     19.9389
 ],
-  "geometry": {"coordinates":[-72.83256999999998,19.9389],"type":"Point"}
+  "geometry": {"coordinates":[-72.83257,19.9389],"type":"Point"}
 }

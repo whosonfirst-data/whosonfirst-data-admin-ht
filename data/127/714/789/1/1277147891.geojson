@@ -42,7 +42,7 @@
         "wk:page":"Gomier"
     },
     "wof:country":"HT",
-    "wof:geomhash":"0490ae54cb5b527ff639776afdb018ca",
+    "wof:geomhash":"14ef88610e4759af9835b454e1454174",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -74.06296999999998,
     18.60928
 ],
-  "geometry": {"coordinates":[-74.06296999999998,18.60928],"type":"Point"}
+  "geometry": {"coordinates":[-74.06297,18.60928],"type":"Point"}
 }

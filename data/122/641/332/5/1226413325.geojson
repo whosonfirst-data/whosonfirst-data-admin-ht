@@ -43,7 +43,7 @@
         "wk:page":"Escamel"
     },
     "wof:country":"HT",
-    "wof:geomhash":"3ced8f4146fdafc028b23e1f4249e956",
+    "wof:geomhash":"e7e80b2809efddbc4648cfb32bc0f6f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -74.41391999999998,
     18.45927
 ],
-  "geometry": {"coordinates":[-74.41391999999998,18.45927],"type":"Point"}
+  "geometry": {"coordinates":[-74.41392,18.45927],"type":"Point"}
 }

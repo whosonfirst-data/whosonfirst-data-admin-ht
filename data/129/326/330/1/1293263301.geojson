@@ -46,7 +46,7 @@
         "wk:page":"Marche_Leon"
     },
     "wof:country":"HT",
-    "wof:geomhash":"f5d232562230c2f08309f27a2f0b98d1",
+    "wof:geomhash":"99bafe3d0d2e14253334bfe5d5bd56ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -74.11766999999998,
     18.54046
 ],
-  "geometry": {"coordinates":[-74.11766999999998,18.54046],"type":"Point"}
+  "geometry": {"coordinates":[-74.11767,18.54046],"type":"Point"}
 }

@@ -43,7 +43,7 @@
         "wk:page":"Savane_Perrin"
     },
     "wof:country":"HT",
-    "wof:geomhash":"52ea0c3073b3ac1c018f3c195a42d57f",
+    "wof:geomhash":"f8208eb6465d1e1275bc94d47453c23a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -71.99389000000002,
     18.70917
 ],
-  "geometry": {"coordinates":[-71.99389000000002,18.70917],"type":"Point"}
+  "geometry": {"coordinates":[-71.99389,18.70917],"type":"Point"}
 }

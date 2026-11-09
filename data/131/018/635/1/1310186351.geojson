@@ -41,7 +41,7 @@
         "gn:id":3725084
     },
     "wof:country":"HT",
-    "wof:geomhash":"156b900c27c63e68f0f22ac968e4f9c0",
+    "wof:geomhash":"d1ac3dbb76a19b99355be2eb691118fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -72.27528000000002,
     18.3375
 ],
-  "geometry": {"coordinates":[-72.27528000000002,18.3375],"type":"Point"}
+  "geometry": {"coordinates":[-72.27528,18.3375],"type":"Point"}
 }

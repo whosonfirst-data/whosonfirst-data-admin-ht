@@ -43,7 +43,7 @@
         "wk:page":"Grande_Ravine"
     },
     "wof:country":"HT",
-    "wof:geomhash":"10f24a7e6c290f2a55fe7d753dfe423c",
+    "wof:geomhash":"ae93177fdda7c2ec0aea474f8b68ad58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -72.14305999999998,
     18.36333
 ],
-  "geometry": {"coordinates":[-72.14305999999998,18.36333],"type":"Point"}
+  "geometry": {"coordinates":[-72.14306,18.36333],"type":"Point"}
 }

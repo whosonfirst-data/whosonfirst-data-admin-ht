@@ -95,7 +95,7 @@
     },
     "wof:country":"HT",
     "wof:created":1469052496,
-    "wof:geomhash":"3cb2234ceea01e86f01298409d55a539",
+    "wof:geomhash":"52f6bfa526ea4d7bda6020c67dd1be4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,5 +123,5 @@
     -73.0,
     18.18333
 ],
-  "geometry": {"coordinates":[-73.0,18.18333],"type":"Point"}
+  "geometry": {"coordinates":[-73,18.18333],"type":"Point"}
 }

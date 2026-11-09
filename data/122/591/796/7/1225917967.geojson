@@ -43,7 +43,7 @@
         "wk:page":"Beaudrouin"
     },
     "wof:country":"HT",
-    "wof:geomhash":"cf0353120610f233085a383a5820fc49",
+    "wof:geomhash":"c6575b9752dd14a1b56704981df7fb52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -74.09373000000002,
     18.58941
 ],
-  "geometry": {"coordinates":[-74.09373000000002,18.58941],"type":"Point"}
+  "geometry": {"coordinates":[-74.09373,18.58941],"type":"Point"}
 }

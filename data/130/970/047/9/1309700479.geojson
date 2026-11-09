@@ -43,7 +43,7 @@
         "wk:page":"Raboteau_Massacre"
     },
     "wof:country":"HT",
-    "wof:geomhash":"adec7cb0c09771a1cb4d460419192afa",
+    "wof:geomhash":"bca7dcb518ba85eff290caa7417d0e53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -72.73333000000002,
     18.33333
 ],
-  "geometry": {"coordinates":[-72.73333000000002,18.33333],"type":"Point"}
+  "geometry": {"coordinates":[-72.73333,18.33333],"type":"Point"}
 }

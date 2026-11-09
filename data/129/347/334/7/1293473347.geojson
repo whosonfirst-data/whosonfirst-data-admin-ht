@@ -46,7 +46,7 @@
         "wk:page":"Decotelette"
     },
     "wof:country":"HT",
-    "wof:geomhash":"bd8a5f6e9473ed61a1956636ae9930fb",
+    "wof:geomhash":"0d09c54d7f3f302ad970d7f501f270f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -74.33778000000002,
     18.43334
 ],
-  "geometry": {"coordinates":[-74.33778000000002,18.43334],"type":"Point"}
+  "geometry": {"coordinates":[-74.33778,18.43334],"type":"Point"}
 }
