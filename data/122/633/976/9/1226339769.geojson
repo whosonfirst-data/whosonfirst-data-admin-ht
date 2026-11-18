@@ -84,12 +84,6 @@
     "name:war_x_preferred":[
         "Arnaud"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u963f\u8bfa\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u963f\u7459\u5fb7\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -113,7 +107,7 @@
         }
     ],
     "wof:id":1226339769,
-    "wof:lastmodified":1636495616,
+    "wof:lastmodified":1794999722,
     "wof:name":"Arnaud",
     "wof:parent_id":1091687127,
     "wof:placetype":"locality",
