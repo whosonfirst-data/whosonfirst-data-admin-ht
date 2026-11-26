@@ -1,0 +1,74 @@
+{
+  "id": 9895030812,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.70761,19.79753,-72.70761,19.79753",
+    "geom:latitude":19.79753,
+    "geom:longitude":-72.70761,
+    "iso:country":"HT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13436883: name \"Dupuy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13436883"
+        },
+        {
+            "citation":"GeoNames populated place 13436883: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13436883"
+        },
+        {
+            "citation":"GeoNames populated place 13436883: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13436883"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091686981 (Gros-Morne), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433,
+        85671949,
+        102191575,
+        1091686981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13436883
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6c44c4ccd08b51cf546e72a5ef7a610a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686981,
+            "locality_id":9895030812,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":9895030812,
+    "wof:lastmodified":1795735215,
+    "wof:name":"Dupuy",
+    "wof:parent_id":1091686981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.70761,
+    19.79753,
+    -72.70761,
+    19.79753
+],
+  "geometry": {"coordinates":[-72.70761,19.79753],"type":"Point"}
+}

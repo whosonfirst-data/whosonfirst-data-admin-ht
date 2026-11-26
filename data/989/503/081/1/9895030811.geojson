@@ -1,0 +1,75 @@
+{
+  "id": 9895030811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.11833,18.58336,-74.11833,18.58336",
+    "geom:latitude":18.58336,
+    "geom:longitude":-74.11833,
+    "gn:population":10000,
+    "iso:country":"HT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12558105: name \"Sassier\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12558105"
+        },
+        {
+            "citation":"GeoNames populated place 12558105: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12558105"
+        },
+        {
+            "citation":"GeoNames populated place 12558105: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12558105"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091686323 (J\u00e9r\u00e9mie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433,
+        85671933,
+        102191575,
+        1091686323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12558105
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"97ec6ba8f49534aafb593242e5644535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686323,
+            "locality_id":9895030811,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":9895030811,
+    "wof:lastmodified":1795735215,
+    "wof:name":"Sassier",
+    "wof:parent_id":1091686323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.11833,
+    18.58336,
+    -74.11833,
+    18.58336
+],
+  "geometry": {"coordinates":[-74.11833,18.58336],"type":"Point"}
+}

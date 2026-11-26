@@ -1,0 +1,74 @@
+{
+  "id": 9895030817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.27014,19.68623,-72.27014,19.68623",
+    "geom:latitude":19.68623,
+    "geom:longitude":-72.27014,
+    "iso:country":"HT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13437744: name \"Br\u00e9da\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13437744"
+        },
+        {
+            "citation":"GeoNames populated place 13437744: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13437744"
+        },
+        {
+            "citation":"GeoNames populated place 13437744: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13437744"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091686325 (l'Acul-du-Nord), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433,
+        85671961,
+        102191575,
+        1091686325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13437744
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8d8ecb8746d3ad2a0e8e73a33ac500a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686325,
+            "locality_id":9895030817,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":9895030817,
+    "wof:lastmodified":1795735215,
+    "wof:name":"Br\u00e9da",
+    "wof:parent_id":1091686325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.27014,
+    19.68623,
+    -72.27014,
+    19.68623
+],
+  "geometry": {"coordinates":[-72.27014,19.68623],"type":"Point"}
+}
