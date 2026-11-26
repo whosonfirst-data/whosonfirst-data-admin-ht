@@ -1,0 +1,74 @@
+{
+  "id": 9895030815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.04655,18.28073,-73.04655,18.28073",
+    "geom:latitude":18.28073,
+    "geom:longitude":-73.04655,
+    "iso:country":"HT",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13437547: name \"Gaspard\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13437547"
+        },
+        {
+            "citation":"GeoNames populated place 13437547: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13437547"
+        },
+        {
+            "citation":"GeoNames populated place 13437547: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13437547"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091686629 (Mirago\u00e2ne), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433,
+        85671937,
+        102191575,
+        1091686629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13437547
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"22c9f49a59ec4f7a0330f99fe16cbbdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686629,
+            "locality_id":9895030815,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":9895030815,
+    "wof:lastmodified":1795735215,
+    "wof:name":"Gaspard",
+    "wof:parent_id":1091686629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.04655,
+    18.28073,
+    -73.04655,
+    18.28073
+],
+  "geometry": {"coordinates":[-73.04655,18.28073],"type":"Point"}
+}
